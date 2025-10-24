@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  background-color: #045159;
+}
+
+@font-face {
+  font-family: 'BBH';
+  src: url('/fonts/BBHSansBartle-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'lelazer';
+  src: url('/fonts/Lalezar-Regular.ttf');
+}
