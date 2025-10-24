@@ -53,7 +53,7 @@ export default function Offers() {
           ))}
         </div>
 
-        {/* ملاحظة صغيرة تحت العروض */}
+        
         <p className="mt-8 text-center text-sm text-gray-400">
            العروض سارية لفترة محدودة. لمزيد من التفاصيل أو للحجز اتصل بالعيادة الآن
         </p>
