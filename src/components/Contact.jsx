@@ -39,7 +39,7 @@ export default function Contact() {
               <FaClock className="text-2xl mt-1" />
               <div>
                 <h3 className="text-lg font-semibold mb-1">مواعيد العمل</h3>
-                <p className="text-gray-300">من 2 لغاية 10 مساءً</p>
+                <p className="text-gray-300">من 2 الي 10 مساءً</p>
                 <p className="text-gray-400 text-sm mt-1">طوال الأسبوع</p>
               </div>
             </div>
